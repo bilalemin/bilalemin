@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  <h1><code>&lt; Bilal Emin /&gt;</code></h1>
-  <h3>⚡ Bilgisayar Mühendisi & Yazılım Geliştirici ⚡</h3>
+  <!-- Yavaşça Yanıp Sönen (Breath/Pulse) Mavi-Mor Neon Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=BILAL%20EMIN&fontSize=52&fontColor=ffffff&animation=fadeIn&stroke=00f5ff&strokeWidth=1&desc=Computer%20Engineer%20%7C%20Software%20Architect&descSize=18&descAlignY=68" width="100%" />
 
+  <br/>
+
+  <!-- Sosyal Medya Rozetleri -->
   <p align="center">
     <a href="https://linkedin.com/in/bilalemin" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,22 +34,22 @@ Here are some ideas to get you started:
     </a>
   </p>
 
+  <!-- Mavi Neon Daktilo Yazısı -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22)%3B;Computer+Engineering+%26+Software+Dev;Building+High-Performance+Systems...;Welcome+to+my+Digital+Universe!%20%F0%9F%9A%80" />
+
 </div>
+
+<br/>
 
 ---
 
-### 👨‍💻 Hakkımda
+## 👨‍💻 `About_Me.json`
 
 ```json
 {
-  "isim": "Bilal Emin",
-  "unvan": "Bilgisayar Mühendisi",
-  "durum": "🚀 Yüksek Performanslı ve Ölçeklenebilir Sistemler Geliştiriyor",
-  "odak_alanlari": [
-    "Yazılım Mimarisi",
-    "Veri Yapıları & Algoritmalar",
-    "Full-Stack Geliştirme",
-    "Açık Kaynak Kod"
-  ],
-  "felsefe": "Temiz Kod (Clean Code) & Sürekli Öğrenme 💡"
+  "developer": "Bilal Emin",
+  "title": "Computer Engineer & Software Developer",
+  "status": "🚀 Coding Scalable & High-Performance Solutions",
+  "stack": ["Full-Stack", "System Architecture", "Algorithms"],
+  "motto": "Clean Code & Continuous Innovation 💡"
 }
