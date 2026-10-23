@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  <!-- Animasyonlu Başlık Banner'ı -->
+  <!-- Animasyonlu Cyber Banner -->
   <a href="https://github.com/bilalemin">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=220&section=header&text=Bilal%20Emin&fontSize=50&fontColor=fff&animation=twinkling&desc=Computer%20Engineering%20%7C%20Software%20Developer&descSize=20&descAlignY=68" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=230&section=header&text=Bilal%20Emin&fontSize=52&fontColor=fff&animation=twinkling&desc=Computer%20Engineering%20%7C%20Software%20Architect%20%26%20Developer&descSize=18&descAlignY=68" width="100%" />
   </a>
 
   <!-- Sosyal Medya & İletişim Rozetleri -->
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
     </a>
   </p>
 
-  <!-- Dinamik Daktilo Efektli GIF Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello%2C+World!%22)%3B;Software+Engineering+%26+Development;Building+Future+Tech+Stack...;Welcome+to+my+GitHub+Universe!%F0%9F%9A%80" />
+  <!-- Dinamik Daktilo Efektli SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=System.out.println(%22Hello%2C+World!%22)%3B;Computer+Engineering+Student+%26+Developer;Architecting+Scalable+%26+High-Performance+Systems;Turning+Coffee+into+Clean+Code+%E2%98%95" />
 
 </div>
 
@@ -45,14 +45,27 @@ Here are some ideas to get you started:
 
 <br/>
 
+## 🏆 GitHub Trophies // Başarılar
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bilalemin&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" width="100%" />
+</div>
+
+<br/>
+
 ## 💻 About Me // Hakkımda
 
 ```json
 {
-  "name": "Bilal Emin",
-  "role": "Computer Engineering / Software Developer",
-  "status": "👨‍💻 Coding the Future",
-  "passions": ["Software Architecture", "Algorithms", "Open Source"],
-  "learning": ["Advanced System Design", "Cloud Computing"],
-  "current_focus": "Building Scalable & High-Performance Applications 🚀"
+  "developer": "Bilal Emin",
+  "degree": "Computer Engineering",
+  "status": "👨‍💻 Architecting the Future",
+  "core_competencies": [
+    "Software Architecture", 
+    "Data Structures & Algorithms", 
+    "Full-Stack Engineering",
+    "Cloud & DevOps Concepts"
+  ],
+  "current_focus": "Building High-Availability Applications 🚀",
+  "philosophy": "Clean Code, Scalable Systems, Continuous Learning 💡"
 }
